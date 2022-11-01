@@ -22,11 +22,11 @@ terraform apply -var-file=prod.tfvars
 
 ## After Deploying Terraform Code  :
 
-![App Screenshot](https://github.com/mostafahassan097/Deploy-ECS/blob/main/Screenshots/1.png)
-![App Screenshot](https://github.com/mostafahassan097/Deploy-ECS/blob/main/Screenshots/2.png)
-![App Screenshot](https://github.com/mostafahassan097/Deploy-ECS/blob/main/Screenshots/3.png)
-![App Screenshot](https://github.com/mostafahassan097/Deploy-ECS/blob/main/Screenshots/4.png)
-![App Screenshot](https://github.com/mostafahassan097/Deploy-ECS/blob/main/Screenshots/5.png)
-![App Screenshot](https://github.com/mostafahassan097/Deploy-ECS/blob/main/Screenshots/6.png)
-![App Screenshot](https://github.com/mostafahassan097/Deploy-ECS/blob/main/Screenshots/7.png)
-![App Screenshot](https://github.com/mostafahassan097/Deploy-ECS/blob/main/Screenshots/8.png)
+![App Screenshot](https://github.com/mostafahassan097/Deploy-ECS/blob/master/Screenshots/1.png)
+![App Screenshot](https://github.com/mostafahassan097/Deploy-ECS/blob/master/Screenshots/2.png)
+![App Screenshot](https://github.com/mostafahassan097/Deploy-ECS/blob/master/Screenshots/3.png)
+![App Screenshot](https://github.com/mostafahassan097/Deploy-ECS/blob/master/Screenshots/4.png)
+![App Screenshot](https://github.com/mostafahassan097/Deploy-ECS/blob/master/Screenshots/5.png)
+![App Screenshot](https://github.com/mostafahassan097/Deploy-ECS/blob/master/Screenshots/6.png)
+![App Screenshot](https://github.com/mostafahassan097/Deploy-ECS/blob/master/Screenshots/7.png)
+![App Screenshot](https://github.com/mostafahassan097/Deploy-ECS/blob/master/Screenshots/8.png)
