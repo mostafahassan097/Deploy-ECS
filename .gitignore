@@ -1,0 +1,5 @@
+.terraform/*
+public-key_pair.pem
+private.pem
+public_key_pair.pem
+.terraform.*
