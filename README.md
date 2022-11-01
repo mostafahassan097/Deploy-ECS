@@ -2,10 +2,9 @@
 
 ## Before you start you should have docker and terraform installed on your machine:
 
-### - Install Docker  ([Link](https://docs.docker.com/engine/install/ubuntu/)).
 ### - Install Terraform  ([Link](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)).
 
-## Steps To Dockerize application:
+## Steps To Deploy Application:
 * Clone The repo:
 ```sh
 git clone git@github.com:mostafahassan097/Deploy-ECS.git
